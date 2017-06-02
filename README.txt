@@ -10,4 +10,4 @@ This is an Interbase DB extension for Liquibase. It includes a basic set of init
 	
 Feel free to add more extensions and unit tests. 
 
-Contact info: gtunali@smartmgmt.com
+Contact info: gdtunali@yahoo.com
